@@ -4,3 +4,10 @@ Nama-nama Makanan Favorit
 - Bakso
 - Miso
 - Soto
+
+Nama-nama Minuman Favorit
+- Susu
+- Jus Buah
+- Sop Buah
+- Kopi
+- Teh
