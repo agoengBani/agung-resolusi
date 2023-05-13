@@ -9,5 +9,3 @@ Nama-nama Minuman Favorit
 - Susu
 - Jus Buah
 - Sop Buah
-- Kopi
-- Teh
