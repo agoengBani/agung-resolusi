@@ -1,0 +1,7 @@
+RENCANA BELAJAR AGUNG
+- Javascript
+  * ES6
+  * Framework Javascript
+- HTML
+- CSS 
+- PHP Framework
