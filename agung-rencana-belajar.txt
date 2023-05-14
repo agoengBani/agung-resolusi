@@ -3,6 +3,7 @@ RENCANA BELAJAR AGUNG
   * ES6
   * Framework Javascript
    ^ Vue
+   ^ React
 - HTML
 - CSS 
 - PHP Framework
