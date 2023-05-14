@@ -2,8 +2,11 @@ RENCANA BELAJAR AGUNG
 - Javascript
   * ES6
   * Framework Javascript
+   ^ Vue
 - HTML
 - CSS 
 - PHP Framework
+  ^ Laravel
 - Struktur Data
 - Dapat membuat website responsive dan berfungsi
+- Python
