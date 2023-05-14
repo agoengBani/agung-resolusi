@@ -5,3 +5,5 @@ RENCANA BELAJAR AGUNG
 - HTML
 - CSS 
 - PHP Framework
+- Struktur Data
+- Dapat membuat website responsive dan berfungsi
