@@ -1,4 +1,4 @@
-RENCANA BELAJAR AGUNG
+RENCANA BELAJAR
 - Javascript
   * ES6
   * Framework Javascript
